@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Kunal-pixel330/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kunal-pixel330/Leetcode/tree/master/0739-daily-temperatures) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kunal-pixel330/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
