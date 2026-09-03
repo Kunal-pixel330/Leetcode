@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal-pixel330/Leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Kunal-pixel330/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kunal-pixel330/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kunal-pixel330/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kunal-pixel330/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
