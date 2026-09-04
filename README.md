@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kunal-pixel330/Leetcode/tree/master/0739-daily-temperatures) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Kunal-pixel330/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
