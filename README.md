@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kunal-pixel330/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunal-pixel330/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kunal-pixel330/Leetcode/tree/master/0200-number-of-islands) |
 ## Range Minimum/Maximum Query
 |  |
@@ -148,5 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Kunal-pixel330/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
