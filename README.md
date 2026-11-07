@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunal-pixel330/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kunal-pixel330/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1882-process-tasks-using-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Kunal-pixel330/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Kunal-pixel330/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1882-process-tasks-using-servers) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
