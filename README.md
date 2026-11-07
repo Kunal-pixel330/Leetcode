@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Kunal-pixel330/Leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Kunal-pixel330/Leetcode/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunal-pixel330/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunal-pixel330/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/Kunal-pixel330/Leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Design
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Data Stream
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Kunal-pixel330/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting Sort
 |  |
