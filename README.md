@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Kunal-pixel330/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Kunal-pixel330/Leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Kunal-pixel330/Leetcode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunal-pixel330/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kunal-pixel330/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kunal-pixel330/Leetcode/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Range Minimum/Maximum Query
