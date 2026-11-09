@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal-pixel330/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kunal-pixel330/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1834-single-threaded-cpu](https://github.com/Kunal-pixel330/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Kunal-pixel330/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1834-single-threaded-cpu](https://github.com/Kunal-pixel330/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting Sort
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal-pixel330/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1834-single-threaded-cpu](https://github.com/Kunal-pixel330/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Sliding Window
 |  |
