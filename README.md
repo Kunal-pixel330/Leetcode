@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Kunal-pixel330/Leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kunal-pixel330/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunal-pixel330/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Kunal-pixel330/Leetcode/tree/master/0036-valid-sudoku) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Kunal-pixel330/Leetcode/tree/master/0645-set-mismatch) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Kunal-pixel330/Leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kunal-pixel330/Leetcode/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0766-toeplitz-matrix) |
