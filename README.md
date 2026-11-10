@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Kunal-pixel330/Leetcode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kunal-pixel330/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0542-01-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/1572-matrix-diagonal-sum) |
