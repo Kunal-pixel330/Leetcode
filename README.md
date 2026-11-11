@@ -84,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3790-smallest-all-ones-multiple](https://github.com/Kunal-pixel330/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kunal-pixel330/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Kunal-pixel330/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3790-smallest-all-ones-multiple](https://github.com/Kunal-pixel330/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3871-count-commas-in-range-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
