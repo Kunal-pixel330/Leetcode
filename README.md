@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0542-01-matrix) |
 | [3693-climbing-stairs-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Kunal-pixel330/Leetcode/tree/master/3743-maximize-cyclic-partition-score) |
+| [3791-number-of-balanced-integers-in-a-range](https://github.com/Kunal-pixel330/Leetcode/tree/master/3791-number-of-balanced-integers-in-a-range) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
