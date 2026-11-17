@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal-pixel330/Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kunal-pixel330/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Kunal-pixel330/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Stack
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Kunal-pixel330/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Kunal-pixel330/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kunal-pixel330/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0542-01-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0542-01-matrix) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -278,5 +280,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Kunal-pixel330/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kunal-pixel330/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
