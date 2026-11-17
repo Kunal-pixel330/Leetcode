@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Kunal-pixel330/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Kunal-pixel330/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/Kunal-pixel330/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Kunal-pixel330/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kunal-pixel330/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Kunal-pixel330/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0542-01-matrix) |
 | [1278-palindrome-partitioning-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
