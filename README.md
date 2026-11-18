@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kunal-pixel330/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kunal-pixel330/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0696-count-binary-substrings](https://github.com/Kunal-pixel330/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Kunal-pixel330/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/Kunal-pixel330/Leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
+| [0696-count-binary-substrings](https://github.com/Kunal-pixel330/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Design
