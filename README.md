@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Kunal-pixel330/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kunal-pixel330/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kunal-pixel330/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
