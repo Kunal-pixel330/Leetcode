@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunal-pixel330/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunal-pixel330/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal-pixel330/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Kunal-pixel330/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Kunal-pixel330/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Ordered Set
 |  |
