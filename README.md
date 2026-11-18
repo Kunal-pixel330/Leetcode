@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Kunal-pixel330/Leetcode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/0867-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/Kunal-pixel330/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Data Stream
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Ordered Set
 |  |
