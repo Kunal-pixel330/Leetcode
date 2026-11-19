@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunal-pixel330/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Kunal-pixel330/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kunal-pixel330/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
