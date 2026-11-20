@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Kunal-pixel330/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/Kunal-pixel330/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Kunal-pixel330/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kunal-pixel330/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1278-palindrome-partitioning-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kunal-pixel330/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kunal-pixel330/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Data Stream
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kunal-pixel330/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kunal-pixel330/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
