@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-pixel330/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3693-climbing-stairs-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Kunal-pixel330/Leetcode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3790-smallest-all-ones-multiple](https://github.com/Kunal-pixel330/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Math
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Ordered Set
 |  |
 | ------- |
