@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-pixel330/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2762-continuous-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kunal-pixel330/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3693-climbing-stairs-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Kunal-pixel330/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Kunal-pixel330/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kunal-pixel330/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2762-continuous-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2762-continuous-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal-pixel330/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1834-single-threaded-cpu](https://github.com/Kunal-pixel330/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2762-continuous-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2762-continuous-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -295,11 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kunal-pixel330/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [2762-continuous-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Ordered Set
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal-pixel330/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2762-continuous-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2762-continuous-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -354,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kunal-pixel330/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
