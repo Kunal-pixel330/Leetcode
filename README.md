@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2401-longest-nice-subarray](https://github.com/Kunal-pixel330/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kunal-pixel330/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-pixel330/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal-pixel330/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kunal-pixel330/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kunal-pixel330/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/Kunal-pixel330/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kunal-pixel330/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Ordered Set
