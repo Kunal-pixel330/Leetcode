@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Kunal-pixel330/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kunal-pixel330/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kunal-pixel330/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Kunal-pixel330/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Kunal-pixel330/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3871-count-commas-in-range-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Kunal-pixel330/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kunal-pixel330/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Kunal-pixel330/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -167,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Kunal-pixel330/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Kunal-pixel330/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal-pixel330/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
