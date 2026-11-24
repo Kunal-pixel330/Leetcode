@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kunal-pixel330/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kunal-pixel330/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-pixel330/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3693-climbing-stairs-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Kunal-pixel330/Leetcode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
