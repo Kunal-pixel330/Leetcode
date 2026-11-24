@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kunal-pixel330/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-pixel330/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3433-count-mentions-per-user](https://github.com/Kunal-pixel330/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3693-climbing-stairs-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Kunal-pixel330/Leetcode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Kunal-pixel330/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kunal-pixel330/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3433-count-mentions-per-user](https://github.com/Kunal-pixel330/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Kunal-pixel330/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Kunal-pixel330/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3871-count-commas-in-range-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Kunal-pixel330/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-pixel330/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3433-count-mentions-per-user](https://github.com/Kunal-pixel330/Leetcode/tree/master/3433-count-mentions-per-user) |
 ## Counting Sort
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal-pixel330/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kunal-pixel330/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3433-count-mentions-per-user](https://github.com/Kunal-pixel330/Leetcode/tree/master/3433-count-mentions-per-user) |
 ## Depth-First Search
 |  |
 | ------- |
