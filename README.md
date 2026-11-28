@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kunal-pixel330/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kunal-pixel330/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kunal-pixel330/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Kunal-pixel330/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal-pixel330/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1871-jump-game-vii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1696-jump-game-vi](https://github.com/Kunal-pixel330/Leetcode/tree/master/1696-jump-game-vi) |
 | [1745-palindrome-partitioning-iv](https://github.com/Kunal-pixel330/Leetcode/tree/master/1745-palindrome-partitioning-iv) |
+| [1871-jump-game-vii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1871-jump-game-vii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kunal-pixel330/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Kunal-pixel330/Leetcode/tree/master/3743-maximize-cyclic-partition-score) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kunal-pixel330/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal-pixel330/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1871-jump-game-vii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kunal-pixel330/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/Kunal-pixel330/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kunal-pixel330/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
