@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Kunal-pixel330/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1306-jump-game-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1306-jump-game-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunal-pixel330/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Kunal-pixel330/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Kunal-pixel330/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1306-jump-game-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1306-jump-game-iii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Kunal-pixel330/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Kunal-pixel330/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kunal-pixel330/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal-pixel330/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1306-jump-game-iii](https://github.com/Kunal-pixel330/Leetcode/tree/master/1306-jump-game-iii) |
 ## Union-Find
 |  |
 | ------- |
