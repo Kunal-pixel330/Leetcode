@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kunal-pixel330/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal-pixel330/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Kunal-pixel330/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kunal-pixel330/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kunal-pixel330/Leetcode/tree/master/0066-plus-one) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kunal-pixel330/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Kunal-pixel330/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Kunal-pixel330/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kunal-pixel330/Leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Kunal-pixel330/Leetcode/tree/master/0621-task-scheduler) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-pixel330/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
