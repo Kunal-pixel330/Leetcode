@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Kunal-pixel330/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-pixel330/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3433-count-mentions-per-user](https://github.com/Kunal-pixel330/Leetcode/tree/master/3433-count-mentions-per-user) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Kunal-pixel330/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/Kunal-pixel330/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2762-continuous-subarrays](https://github.com/Kunal-pixel330/Leetcode/tree/master/2762-continuous-subarrays) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kunal-pixel330/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Kunal-pixel330/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Kunal-pixel330/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kunal-pixel330/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Graph Theory
 |  |
 | ------- |
